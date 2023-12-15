@@ -8,3 +8,4 @@ def two_sum(nums, target):
     return None
 print(two_sum(nums=[2, 7, 11, 15], target=9))
 print(two_sum(nums=[3, 2, 4], target=6))
+##
